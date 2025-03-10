@@ -1,7 +1,8 @@
 # Customer-Rating-Analysis-using-SQL
 In the scope of this project, our focus lies in delving into restaurant ratings data to extract valuable insights regarding the performance of diverse dining establishments.
 
-![image](https://github.com/user-attachments/assets/bce671c7-bbf2-4802-8348-fe0978cf9bc4)
+![image](https://github.com/user-attachments/assets/71280425-5223-44f0-80c3-86372c1e88c5)
+
 
 ## Introduction
 
